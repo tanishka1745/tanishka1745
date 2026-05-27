@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishka</h1>
 <h3 align="center">A Passionate Programmer and Developer .</h3>
 
-- 🌱 I’m currently learning **Android and Mobile Development**
+- 🌱 I’m a Backend developer**
 
 - 📫 How to reach me **tanishkasharma1745@gmail.com**
 
